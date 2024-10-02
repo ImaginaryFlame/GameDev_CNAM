@@ -1,0 +1,31 @@
+Concept du Jeu
+-Titre du Jeu: (à définir)
+-Genre: Plateforme 2D, Stickman
+-Modes de Jeu: Solo ou Coopératif à 2 joueurs
+
+
+Gameplay
+Contrôle du Personnage:
+Avancer/Reculer
+Sauter
+Lancer des objets
+Graphismes:
+Style Stickman
+Graphismes simples et épurés
+
+Mécanique de Dessin
+Phase de Dessin:
+Avant chaque niveau, les joueurs ont accès à une phase de dessin.
+Utilisation d’un stylo avec plusieurs couleurs, chaque couleur ayant des effets spécifiques.
+Exemple d’effets :
+Rouge: Les traits rouges rebondissent.
+Bleu: Les traits bleus glissent.
+Vert: Les traits verts sont collants.
+Limitation d’encre pour chaque couleur, obligeant les joueurs à être stratégiques.
+Phase de Jeu:
+Une fois le dessin terminé, les joueurs contrôlent leur personnage pour parcourir le niveau.
+Les interactions avec les dessins influencent le gameplay (rebondir, glisser, coller, etc.).
+
+Objectifs
+Parcourir les niveaux en utilisant les dessins pour surmonter les obstacles.
+Collaborer en mode coopératif pour résoudre des puzzles et atteindre la fin du niveau.
